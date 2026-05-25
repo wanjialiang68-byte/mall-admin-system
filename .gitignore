@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# Maven
+.m2/
+
+# Gradle
+.gradle/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local env
+.env
+.env.local
+*.log
